@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProject\\PromPT\\PromPT\\Source\\PromPT\\PromPT.Build.cs",
+		"C:\\UnrealProject\\PromPT\\PromPT\\Source\\PromPT.Target.cs",
+		"C:\\UnrealProject\\PromPT\\PromPT\\Source\\PromPTEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PromPT",
+			"Path": "..\\Source\\PromPT.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PromPTEditor",
+			"Path": "..\\Source\\PromPTEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

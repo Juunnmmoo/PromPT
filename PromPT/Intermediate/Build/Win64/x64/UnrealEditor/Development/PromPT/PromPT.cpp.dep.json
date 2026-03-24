@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealproject\\prompt\\prompt\\source\\prompt\\prompt.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealproject\\prompt\\prompt\\intermediate\\build\\win64\\x64\\prompteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealproject\\prompt\\prompt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\prompt\\definitions.prompt.h",
+            "c:\\unrealproject\\prompt\\prompt\\source\\prompt\\prompt.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

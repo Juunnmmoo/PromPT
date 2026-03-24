@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PromPT.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealProject\PromPT\PromPT\Intermediate\Build\Win64\x64\PromPTEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\UnrealProject\PromPT\PromPT\Intermediate\Build\Win64\x64\UnrealEditor\Development\PromPT\PromPT.cpp.obj"
+"C:\UnrealProject\PromPT\PromPT\Intermediate\Build\Win64\x64\UnrealEditor\Development\PromPT\PerModuleInline.gen.cpp.obj"
+"C:\UnrealProject\PromPT\PromPT\Intermediate\Build\Win64\x64\UnrealEditor\Development\PromPT\Default.rc2.res"
+/OUT:"C:\UnrealProject\PromPT\PromPT\Intermediate\Build\Win64\x64\UnrealEditor\Development\PromPT\UnrealEditor-PromPT.lib"
